@@ -1,6 +1,6 @@
 # 🌿 GblackAI — Agricultural AI Analysis API
 
-> 📱 **Mobile app**: [GblackAI Mobile](https://github.com/Gblack98/GblackAI-Mobile) · [Download APK](https://github.com/Gblack98/GblackAI-Mobile/releases/tag/v12.0.0)
+> 📱 **Mobile app**: [GblackAI Mobile](https://github.com/Gblack98/GblackAI-Mobile)
 
 An AI-powered API that analyzes farm images to detect diseases, pests, and crop problems.
 
